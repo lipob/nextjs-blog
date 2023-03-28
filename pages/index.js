@@ -22,8 +22,8 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Just say something</p>
-        <p>Go to <Link href="/posts/first-post">First Post</Link></p>
+        <p>Besides learning new technology, I'm trying a Next.jp web app to find out if it is suitable for my next project.</p>
+        <p>After a couple of days of developing this app, it's easy to see that Next.js is great. Follow the link to go to <Link href="/posts/first-post">First Post.</Link></p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
